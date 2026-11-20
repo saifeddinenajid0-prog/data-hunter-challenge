@@ -33,7 +33,7 @@ Ce projet collecte des données sur trois sources Web, avec trois méthodes d'ex
 ## Lancer le projet
 
 ```bash
-git clone https://github.com/<ton-compte>/data-hunter-challenge.git
+git clone https://github.com/saifeddinenajid0-prog/data-hunter-challenge.gitdata-hunter-challenge.git
 cd data-hunter-challenge
 pip install -r requirements.txt
 ```
