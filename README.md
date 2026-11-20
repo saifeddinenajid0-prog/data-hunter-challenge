@@ -13,6 +13,8 @@ Ce projet collecte des données sur trois sources Web, avec trois méthodes d'ex
 | 2 | API REST : `requests` | [Open Library Search API](https://openlibrary.org/dev/docs/api/search) | titre, auteur(s), année de 1re publication, identifiant | `data/openlibrary.csv` |
 | 3 | Scraping dynamique : `Selenium` | [quotes.toscrape.com/js](https://quotes.toscrape.com/js/) | citation, auteur, tags | `data/quotes.csv` |
 
+![Aperçu des données collectées](assets/books_overview.png)
+
 ## Points techniques
 
 - **Pagination automatique** : le programme suit le lien *next* jusqu'au nombre de pages voulu.
