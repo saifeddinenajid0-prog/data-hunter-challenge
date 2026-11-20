@@ -58,7 +58,7 @@ data-hunter-challenge/
 ## Progression
 
 - [x] Structure du projet
-- [ ] Mission 1 : scraping statique (books.csv)
+- [x] Mission 1 : scraping statique (books.csv)
 - [ ] Mission 2 : API Open Library (openlibrary.csv)
 - [ ] Mission 3 : scraping dynamique Selenium (quotes.csv)
 - [ ] Audit qualité et conclusion
