@@ -1,0 +1,17 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Drivers de navigateur (à ne pas versionner)
+*.exe
+geckodriver*
+chromedriver*
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
